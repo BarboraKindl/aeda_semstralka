@@ -13,6 +13,7 @@ logging.basicConfig(
 # Load .env variables
 load_dotenv()
 
+
 def convert_xlsx_to_csv():
     """
     Converts an Excel (.xlsx) file to a CSV file.
@@ -27,7 +28,8 @@ def convert_xlsx_to_csv():
     # Validate environment variables
     if not input_file or not output_file:
         logging.error("Missing INPUT_FILE or OUTPUT_FILE in .env file.")
-        print("Error: Please ensure INPUT_FILE and OUTPUT_FILE are set in the .env file.")
+        print(
+            "Error: Please ensure INPUT_FILE and OUTPUT_FILE are set in the .env file.")
         return
 
     logging.info(f"Input file: {input_file}")
@@ -49,6 +51,7 @@ def convert_xlsx_to_csv():
     except Exception as e:
         logging.exception("An unexpected error occurred during conversion.")
         print(f"An unexpected error occurred: {e}")
+
 
 if __name__ == "__main__":
     convert_xlsx_to_csv()
