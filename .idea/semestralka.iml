@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv/include" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/_distutils_hack" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/pip" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/pip-23.0.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/pip-24.3.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/pkg_resources" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/python_dotenv-1.0.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/setuptools" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/setuptools-65.5.0.dist-info" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.10 (semestralka)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
