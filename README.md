@@ -22,7 +22,7 @@ source .venv/bin/activate
 ```
 - install packages
 ```bash
-pip install python-dotenv pandas 
+pip install python-dotenv pandas openpyxl
 ```
 
 ### Docs
