@@ -25,9 +25,7 @@ source .venv/bin/activate
 pip install python-dotenv pandas 
 ```
 
-
 ### Docs
-
 
  excel_to_csv
 
