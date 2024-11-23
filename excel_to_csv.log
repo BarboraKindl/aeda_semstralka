@@ -33,3 +33,21 @@ ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to instal
 2024-11-22 01:14:15,108 - INFO - Reading Excel file: data.xlsx
 2024-11-22 01:14:15,232 - INFO - Writing data to CSV file: data.csv
 2024-11-22 01:14:15,234 - INFO - Successfully converted data.xlsx to data.csv.
+2024-11-22 17:36:48,380 - INFO - Starting Excel to CSV conversion process.
+2024-11-22 17:36:48,380 - INFO - Input file: data.xlsx
+2024-11-22 17:36:48,380 - INFO - Output file: data.csv
+2024-11-22 17:36:48,380 - INFO - Reading Excel file: data.xlsx
+2024-11-22 17:36:48,474 - INFO - Writing data to CSV file: data.csv
+2024-11-22 17:36:48,478 - INFO - Successfully converted data.xlsx to data.csv.
+2024-11-23 17:04:10,078 - INFO - Starting Excel to CSV conversion process.
+2024-11-23 17:04:10,078 - INFO - Input file: data/data.xlsx
+2024-11-23 17:04:10,078 - INFO - Output file: data/data.csv
+2024-11-23 17:04:10,078 - INFO - Reading Excel file: data/data.xlsx
+2024-11-23 17:04:10,177 - INFO - Writing data to CSV file: data/data.csv
+2024-11-23 17:04:10,180 - INFO - Successfully converted data/data.xlsx to data/data.csv.
+2024-11-23 17:10:22,619 - INFO - Starting Excel to CSV conversion process.
+2024-11-23 17:10:22,619 - INFO - Input file: data/data.xlsx
+2024-11-23 17:10:22,619 - INFO - Output file: data/data.csv
+2024-11-23 17:10:22,619 - INFO - Reading Excel file: data/data.xlsx
+2024-11-23 17:10:22,712 - INFO - Writing data to CSV file: data/data.csv
+2024-11-23 17:10:22,715 - INFO - Successfully converted data/data.xlsx to data/data.csv.

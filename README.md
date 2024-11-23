@@ -10,7 +10,7 @@ touch .env
 > 
 > .env
 
-- into .env write this 
+- into .env write this for example
 > INPUT_FILE=data.xlsx
 > 
 > OUTPUT_FILE=data.csv
