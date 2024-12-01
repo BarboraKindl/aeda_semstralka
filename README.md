@@ -39,7 +39,7 @@ pip install python-dotenv pandas openpyxl
   - RBD – porucha chování v REM spánku (REM sleep
   - behavior disorder
   - atonie svalů = absence svalového napětí
-  - 
+  - musculi cricoarythenoidales posteriores - Jako jediný ze svalů hrtanu rozevírá hlasivkovou štěrbinu a udržuje ji při dýchání otevřenou v respiračním postavení. Při porušení jeho inervace (riziko při operacích štítné žlázy) hrozí udušení. Pokud se nepodaří inervaci obnovit, je třeba provést laterofixaci nebo resekci hlasivky. Jeho snopce směrem k úponu konvergují. [zdroj](https://www.wikiskripta.eu/w/Svaly_laryngu)
 - [z PUBMED - Rapid Eye Movement Sleep Behavior Disorder](https://www.ncbi.nlm.nih.gov/books/NBK555928/)
 - [RBD and Neurodegenerative Diseases](https://link.springer.com/article/10.1007/s12035-016-9831-4)
 - [REM sleep behavior disorder (RBD)](https://sci-hub.se/https://doi.org/10.1016/j.nbd.2020.104996)
