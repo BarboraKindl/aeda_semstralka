@@ -34,6 +34,10 @@ pip install python-dotenv pandas openpyxl
 ### links
 
 - [článek od Šonky](https://www.neurologiepropraxi.cz/pdfs/neu/2008/05/07.pdf)
+  - PLMS – periodické pohyby končetinami ve spánku (periodic limb movements in sleep)
+  - PSG – polysomnografie
+  - RBD – porucha chování v REM spánku (REM sleep
+  - behavior disorder)
 - [z PUBMED - Rapid Eye Movement Sleep Behavior Disorder](https://www.ncbi.nlm.nih.gov/books/NBK555928/)
 - [RBD and Neurodegenerative Diseases](https://link.springer.com/article/10.1007/s12035-016-9831-4)
 - [REM sleep behavior disorder (RBD)](https://sci-hub.se/https://doi.org/10.1016/j.nbd.2020.104996)
