@@ -34,7 +34,7 @@ pip install python-dotenv pandas openpyxl
 ### liks
 
 - [článek od Šonky](https://www.neurologiepropraxi.cz/pdfs/neu/2008/05/07.pdf)
-- [z PUBMED] (https://www.ncbi.nlm.nih.gov/books/NBK555928/)
+- [z PUBMED - Rapid Eye Movement Sleep Behavior Disorder](https://www.ncbi.nlm.nih.gov/books/NBK555928/)
   
 
 
