@@ -31,7 +31,7 @@ pip install python-dotenv pandas openpyxl
 
 > This script converts Excel files (.xlsx) into CSV files (.csv). It uses the Pandas library for handling data conversion and supports flexible configuration using a .env file for input and output file paths.
 
-### liks
+### links
 
 - [článek od Šonky](https://www.neurologiepropraxi.cz/pdfs/neu/2008/05/07.pdf)
 - [z PUBMED - Rapid Eye Movement Sleep Behavior Disorder](https://www.ncbi.nlm.nih.gov/books/NBK555928/)
