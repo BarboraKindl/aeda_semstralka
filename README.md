@@ -38,6 +38,7 @@ pip install python-dotenv pandas openpyxl
   - PSG – polysomnografie
   - RBD – porucha chování v REM spánku (REM sleep
   - behavior disorder
+  - Lewyho tělíska - abnormální bílkovinné usazeniny uvnitř nervových buněk, které se vyskytují zejména u pacientů s demencí s Lewyho tělísky a s parkinsonskými syndromy. Viz také demence s Lewyho tělísky.
   - atonie svalů = absence svalového napětí
   - musculi cricoarythenoidales posteriores - Jako jediný ze svalů hrtanu rozevírá hlasivkovou štěrbinu a udržuje ji při dýchání otevřenou v respiračním postavení. Při porušení jeho inervace (riziko při operacích štítné žlázy) hrozí udušení. Pokud se nepodaří inervaci obnovit, je třeba provést laterofixaci nebo resekci hlasivky. Jeho snopce směrem k úponu konvergují. [zdroj](https://www.wikiskripta.eu/w/Svaly_laryngu)
 - [z PUBMED - Rapid Eye Movement Sleep Behavior Disorder](https://www.ncbi.nlm.nih.gov/books/NBK555928/)
