@@ -70,7 +70,7 @@ Silná spojitost s neurodegenerativními synukleinopatiemi, přičemž po 12 let
     - RBD and REM sleep without atonia (RWA) are associated with faster motor progression in PD, suggesting impaired muscle atonia may indicate quicker disease progression.
 
   
-- [Abnormal eye movements in Parkinson's disease: From experimental study to clinical application]([https://sci-hub.se/https://doi.org/10.1016/j.nbd.2020.104996](https://www.sciencedirect.com/science/article/pii/S1353802023008702))
+- [Abnormal eye movements in Parkinson's disease: From experimental study to clinical application]((https://www.sciencedirect.com/science/article/pii/S1353802023008702))
 
 
 - [Monitoring Eye Movement in Patients with Parkinson’s Disease: What Can It Tell Us?](https://www.dovepress.com/monitoring-eye-movement-in-patients-with-parkinsons-disease-what-can-i-peer-reviewed-fulltext-article-EB)
