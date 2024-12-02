@@ -63,11 +63,11 @@ Silná spojitost s neurodegenerativními synukleinopatiemi, přičemž po 12 let
 
   
 - [RBD and Neurodegenerative Diseases](https://link.springer.com/article/10.1007/s12035-016-9831-4)
-    - In 18–52% of Parkinson’s disease (PD) patients, RBD develops before PD onset; in others, it develops simultaneously or later.
-    - RBD is more common in PD patients with akinetic-rigid symptoms, but no preferred subtype was found in larger studies.
-    - PD patients with RBD tend to have longer disease duration, more falls, psychiatric comorbidities, and higher levodopa doses.
-    - RBD is linked to more REM sleep, periodic leg movements, higher systolic blood pressure changes, and worse cognition.
-    - RBD and REM sleep without atonia (RWA) are associated with faster motor progression in PD, suggesting impaired muscle atonia may indicate quicker disease progression.
+    - U 18–52 % pacientů s Parkinsonovou chorobou se RBD vyvine před nástupem Parkinsonovy choroby, u ostatních současně nebo později.
+    - RBD je častější u pacientů s akineticko-rigidní formou PD, ale ve větších studiích nebyl nalezen preferovaný podtyp.
+    - Pacienti s PD a RBD mají obvykle delší trvání nemoci, více pádů, psychiatrické komorbidity a vyšší dávky levodopy.
+    - RBD je spojeno s více REM spánkem, periodickými pohyby nohou, vyššími změnami systolického krevního tlaku a horší kognicí.
+    - RBD a REM spánek bez atonie (RWA) jsou spojeny s rychlejším motorickým zhoršením u PD, což naznačuje, že porucha svalové atonie může být ukazatelem rychlejšího progrese nemoci.
 
   
 - [Abnormal eye movements in Parkinson's disease: From experimental study to clinical application](https://www.sciencedirect.com/science/article/pii/S1353802023008702)
