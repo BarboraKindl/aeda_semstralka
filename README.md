@@ -41,8 +41,41 @@ pip install python-dotenv pandas openpyxl
   - Lewyho tělíska - abnormální bílkovinné usazeniny uvnitř nervových buněk, které se vyskytují zejména u pacientů s demencí s Lewyho tělísky a s parkinsonskými syndromy. Viz také demence s Lewyho tělísky.
   - atonie svalů = absence svalového napětí
   - musculi cricoarythenoidales posteriores - Jako jediný ze svalů hrtanu rozevírá hlasivkovou štěrbinu a udržuje ji při dýchání otevřenou v respiračním postavení. Při porušení jeho inervace (riziko při operacích štítné žlázy) hrozí udušení. Pokud se nepodaří inervaci obnovit, je třeba provést laterofixaci nebo resekci hlasivky. Jeho snopce směrem k úponu konvergují. [zdroj](https://www.wikiskripta.eu/w/Svaly_laryngu)
+ 
+    
 - [z PUBMED - Rapid Eye Movement Sleep Behavior Disorder](https://www.ncbi.nlm.nih.gov/books/NBK555928/)
+   - RBD zahrnuje chování spojené se sny, kdy dochází k ztrátě svalové atonie během REM spánku, což může způsobit zranění pacientům i jejich partnerům.
+   - Silně spojené s neurodegenerativními alfa-synukleinopatiemi, jako je Parkinsonova choroba a demence s Lewyho těly.
+Příznaky mohou předcházet neurodegenerativní onemocnění i o desítky let.
+Diagnóza vyžaduje polysomnografii, léčba zahrnuje prevenci zranění a léky jako melatonin nebo klonazepam.
+Příčiny
+
+Faktory rizika: Věk, pohlaví (častější u mužů), užívání antidepresiv, narkolepsie a neurologická onemocnění.
+Typy RBD:
+Idiopatické: Nejčastější u neurodegenerativních synukleinopatií.
+Léky indukované: Nejvíce spojené s antidepresivy (SSRIs, TCA, MAOIs) a alkoholem.
+Sekundární: Spojeno s nemocemi jako narkolepsie nebo traumata.
+RBD spojené s narkolepsií má jiný průběh a méně násilné chování.
+Epidemiologie
+
+Prevalence: ~0,5 % v běžné populaci, u starších lidí 5-13 %.
+Častější u mužů, ale u lidí do 50 let rovnoměrné rozdělení pohlaví.
+Silná souvislost s psychiatrickými poruchami a užíváním antidepresiv.
+U 30 % mladých lidí s narkolepsií typu I.
+Patofyziologie
+
+Ztráta atonie během REM spánku kvůli dysfunkci mozkového kmene.
+Silná spojitost s neurodegenerativními synukleinopatiemi, přičemž po 12 letech se 74 % pacientů vyvine v tato onemocnění.
+Související poruchy zahrnují progresivní supranukleární paralýzu a frontotemporální demenci.
+Nové spojení s protilátkami (anti-IgLON5), které naznačuje tauopatii.
+Závěr
+
+RBD může odhalit základní neurodegenerativní nebo imunitně zprostředkované nemoci, přičemž serotonergní léky mohou příznaky zhoršit.
+
+  
 - [RBD and Neurodegenerative Diseases](https://link.springer.com/article/10.1007/s12035-016-9831-4)
+
+  
 - [REM sleep behavior disorder (RBD)](https://sci-hub.se/https://doi.org/10.1016/j.nbd.2020.104996)
 
   
