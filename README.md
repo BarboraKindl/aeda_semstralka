@@ -42,7 +42,16 @@ pip install python-dotenv pandas openpyxl
   - atonie svalů = absence svalového napětí
   - musculi cricoarythenoidales posteriores - Jako jediný ze svalů hrtanu rozevírá hlasivkovou štěrbinu a udržuje ji při dýchání otevřenou v respiračním postavení. Při porušení jeho inervace (riziko při operacích štítné žlázy) hrozí udušení. Pokud se nepodaří inervaci obnovit, je třeba provést laterofixaci nebo resekci hlasivky. Jeho snopce směrem k úponu konvergují. [zdroj](https://www.wikiskripta.eu/w/Svaly_laryngu)
  
-- [škála UDPRS III](https://www.neurologiepropraxi.cz/pdfs/neu/2011/92/07.pdf)    
+- [škála UDPRS III -  Unified Parkinson‘s disease rating scale](https://www.neurologiepropraxi.cz/pdfs/neu/2011/92/07.pdf)
+  - nemotorické vlivy Pakinsonovy nemoci na pacientovy aktivity denního života
+  - 13 otázek
+  -  Part I: Mentation, Behavior, Mood
+  - Part II: Activities of Daily Living (Determine for “on” or “off”, indicating either a “good” or “bad” day, respectively.)
+  - Part III: Motor Examination
+  - Part IV: Complications of Therapy (in the past week)
+  - Part V: H&Y staging scale
+  - Part VI: S&E ADL scale
+
 - [z PUBMED - Rapid Eye Movement Sleep Behavior Disorder](https://www.ncbi.nlm.nih.gov/books/NBK555928/)
    - RBD zahrnuje chování spojené se sny, kdy dochází k ztrátě svalové atonie během REM spánku, což může způsobit zranění pacientům i jejich partnerům.
    - Silně spojené s neurodegenerativními alfa-synukleinopatiemi, jako je Parkinsonova choroba a demence s Lewyho těly.
